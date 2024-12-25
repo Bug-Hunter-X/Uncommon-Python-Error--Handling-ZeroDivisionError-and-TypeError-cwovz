@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error scenario in Python exception handling. The Python code in 'bug.py' shows a function that handles both ZeroDivisionError and TypeError exceptions. The solution is provided in 'bugSolution.py'. It demonstrates the handling of both exceptions, making the code more robust and preventing unexpected crashes.
